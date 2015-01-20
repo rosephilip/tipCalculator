@@ -12,6 +12,9 @@ Completed Stories:
 * Extra: When connected to hardware keyboard, ability to press Enter inside text box to update the values.
 * Extra: Clear button to start over.
 
+Demo:
+
+![alt tag](https://cloud.githubusercontent.com/assets/3673740/5812537/ce832112-a021-11e4-9c8e-84687912344b.gif)
 
 Gif created with [LiceCap](http://www.cockos.com/licecap/)
 Implementation of Required parts based on video in [Codepath](http://codepath.com/)
