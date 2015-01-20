@@ -2,7 +2,7 @@
 
 This is an iOS application to calculate the bill total from prices of different items, and the corresponding tip. The tip percentage can be chosen from three available options and a default value can be set inside Settings. Touching any part of the screen in the main page will show the new tip and total amount.
 
-Total time to complete: 5 hours including video and set up.
+Total time to complete: 5 hours 30 minutes including video and set up.
 
 Completed Stories:
 * Required: Calculation of tip and total amount based on the % selection by user.
@@ -17,4 +17,5 @@ Demo:
 ![alt tag](https://cloud.githubusercontent.com/assets/3673740/5812537/ce832112-a021-11e4-9c8e-84687912344b.gif)
 
 Gif created with [LiceCap](http://www.cockos.com/licecap/)
+
 Implementation of Required parts based on video in [Codepath](http://codepath.com/)
